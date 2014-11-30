@@ -1,2 +1,2 @@
-dockers-skeleton
+docker-skeleton
 ================
